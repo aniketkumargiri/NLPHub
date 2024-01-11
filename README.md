@@ -1,0 +1,12 @@
+# NLP Applications:
+- Word Representation
+- Word Embedding"
+- Part of Speech Tagging
+- Named Entity Recognition
+- Dependency Parsing
+- Topic Modeling
+- Keyword Extraction
+- Text Visualization
+- Text Analysis
+- Text Summarization
+- Language Translation
